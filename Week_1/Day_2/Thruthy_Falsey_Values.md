@@ -1,4 +1,4 @@
-### Truth and Falsey Values
+### Truthy and Falsey Values
 
 Comparing two values in JavaScript will return either true or false. But there are some situations in JavaScript, especially when using ==, that the correct response will be the opposite of what you might expect.
 
@@ -33,3 +33,29 @@ undefined
 NaN
 // Not a Number. You'll learn more about NaN as we go on.
 ```
+
+#### Truthy and Falsey Values
+
+Truthy values are a fast and easy way to check conditions in our code. For example, maybe we want to save the users name to a String, but only if we don't already have something saved to username.
+
+``` javascript
+username = '';
+
+if (!username) {
+  username = 'Siobhan';
+}
+```
+
+Since we haven't yet saved anything to username, it's an empty String, and therefore returns falsey, which we account for with the bang !username, allowing the rest of our code to run.
+
+The same concept can be applied to Arrays. Invoking the Array.length property will return 0 for an empty Array, which is also a falsey value.
+
+``` javascript
+shoppingList = [];
+
+if (!shoppingList.length) {
+  shoppingList.push('coconut milk');
+}
+```
+
+This is a simple way to check if our Shopping List is empty, and if it is we can add some delicious coconut milk to it!
