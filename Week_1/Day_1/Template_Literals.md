@@ -1,4 +1,6 @@
-### Template Literals
+[Table Of Contents](../../README.md)
+
+# Template Literals
 
 Consider the following example which uses string concatenation to greet Alice.
 

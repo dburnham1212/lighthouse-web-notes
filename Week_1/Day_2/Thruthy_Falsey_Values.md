@@ -1,4 +1,6 @@
-### Truthy and Falsey Values
+[Table Of Contents](../../README.md)
+
+# Truthy and Falsey Values
 
 Comparing two values in JavaScript will return either true or false. But there are some situations in JavaScript, especially when using ==, that the correct response will be the opposite of what you might expect.
 
@@ -33,8 +35,6 @@ undefined
 NaN
 // Not a Number. You'll learn more about NaN as we go on.
 ```
-
-#### Truthy and Falsey Values
 
 Truthy values are a fast and easy way to check conditions in our code. For example, maybe we want to save the users name to a String, but only if we don't already have something saved to username.
 
