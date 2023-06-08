@@ -1,3 +1,5 @@
+[Table Of Contents](../../README.md)
+
 # Exporting Functions
 
 To export a singular function you would export the function itself using module.export.

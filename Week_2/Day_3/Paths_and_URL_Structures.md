@@ -1,3 +1,5 @@
+[Table Of Contents](../../README.md)
+
 # Paths and URL Structures
 
 In order to request a "resource" (webpage, etc.) from an HTTP server, we need to know its URL. Every web developer should be able to correctly identify a Uniform Resource Locator, or URL. The path is a part of the URL.
