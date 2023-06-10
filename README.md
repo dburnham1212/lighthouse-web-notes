@@ -27,5 +27,9 @@ This repository contains all of the notes taken by [Dylan Burnham](https://githu
   * [Day 2: Networking](/Week_2/Day_1)
     * [Day 2: Networking](/Week_2/Day_2/Networking.md)
     * [Day 2: TCP](/Week_2/Day_2/TCP.md)
-  * [Day 3: More Networking](/Week_2/Day_1)
+  * [Day 3: More Networking](/Week_2/Day_3)
     * [Day 3: Paths and URL Structures](/Week_2/Day_3/Paths_and_URL_Structures.md)
+  * [Day 4: Asynchronous Functions](/Week_2/Day_3)
+    * [Day 4: Callback Review and Chaining](/Week_2/Day_4/Callback_Review_and_Chaining.md)
+    * [Day 4: Promises](/Week_2/Day_4/Promises.md)
+    
