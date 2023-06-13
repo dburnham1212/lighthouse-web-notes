@@ -33,4 +33,4 @@ This repository contains all of the notes taken by [Dylan Burnham](https://githu
     * [Day 4: Callback Review and Chaining](/Week_2/Day_4/Callback_Review_and_Chaining.md)
     * [Day 4: Promises](/Week_2/Day_4/Promises.md)
   * [Day 5: Object Oriented Programming](/Week_2/Day_5)
-    * [Day 4: Classes](/Week_2/Day_5/Classes.md)
+    * [Day 5: Classes](/Week_2/Day_5/Classes.md)

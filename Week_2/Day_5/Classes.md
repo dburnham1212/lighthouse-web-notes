@@ -7,6 +7,7 @@ In OOP, classes are blueprints (templates) that we use to create isntances of ob
 Example: 
 
 ```javascript
+// Example of a parent class
 class ExampleParent {
   // Example of a constructor
   constructor(value) {
