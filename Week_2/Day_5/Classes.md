@@ -1,3 +1,5 @@
+[Table Of Contents](../../README.md)
+
 # Classes
 
 In OOP, classes are blueprints (templates) that we use to create isntances of objects. A class describes what the object is going to be and we can create new objects using a class.
