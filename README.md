@@ -34,3 +34,7 @@ This repository contains all of the notes taken by [Dylan Burnham](https://githu
     * [Day 4: Promises](/Week_2/Day_4/Promises.md)
   * [Day 5: Object Oriented Programming](/Week_2/Day_5)
     * [Day 5: Classes](/Week_2/Day_5/Classes.md)
+  * [Day 6: DNS](/Week_2/Day_6)
+    * [Day 6: DNS](/Week_2/Day_6/DNS.md)
+
+* [Week 3](/Week_3)
