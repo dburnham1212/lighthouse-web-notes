@@ -38,3 +38,7 @@ This repository contains all of the notes taken by [Dylan Burnham](https://githu
     * [Day 6: DNS](/Week_2/Day_6/DNS.md)
 
 * [Week 3](/Week_3)
+  * [Day 1: CRUD and HTTP](/Week_3/Day_1/)
+    * [Day 1: CRUD and HTTP](/Week_3/Day_1/CRUD_and_HTTP.md)
+  * [Day 2: Nodemon](/Week_3/Day_2/)
+    * [Day 2: Nodemon](/Week_3/Day_1/CRUD_and_HTTP.md)
