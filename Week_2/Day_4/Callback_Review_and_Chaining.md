@@ -35,7 +35,7 @@ In the example above we dont have to rewrite forEach and can just use a differen
 
 ## Callback Chaining
 
-### Why chain callback together?
+### Why chain callbacks together?
 
 Sometimes you will have multiple asynchronous functions working together. By chaining them together one can give its result to the next one, and so on.
 
